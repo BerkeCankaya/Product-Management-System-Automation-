@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\urunyonetimsistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|solutionrelative:urunyonetimsistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\urunyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|solutionrelative:urunyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\urunyonetimsistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|solutionrelative:urunyonetimsistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\urunyonetimsistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|solutionrelative:urunyonetimsistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|c:\\users\\berke\\desktop\\proje\\urunyonetimsistemi\\urunyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|solutionrelative:urunyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\urunyonetimsistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{117630CE-493A-4E60-85D9-0B8453FDC3B9}|UrunYonetimSistemi\\UrunYonetimSistemi.csproj|solutionrelative:urunyonetimsistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "UrunYonetimSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UrunYonetimSistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:23:21.536Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form2.cs",
+              "RelativeDocumentMoniker": "UrunYonetimSistemi\\Form2.cs",
+              "ToolTip": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UrunYonetimSistemi\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:04:03.302Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form3.cs",
+              "RelativeDocumentMoniker": "UrunYonetimSistemi\\Form3.cs",
+              "ToolTip": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UrunYonetimSistemi\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:01:02.5Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "UrunYonetimSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form1.cs",
+              "RelativeToolTip": "UrunYonetimSistemi\\Form1.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:33:10.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form2.cs",
+              "RelativeDocumentMoniker": "UrunYonetimSistemi\\Form2.cs",
+              "ToolTip": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form2.cs",
+              "RelativeToolTip": "UrunYonetimSistemi\\Form2.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:10:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form3.cs",
+              "RelativeDocumentMoniker": "UrunYonetimSistemi\\Form3.cs",
+              "ToolTip": "C:\\Users\\berke\\Desktop\\Proje\\UrunYonetimSistemi\\UrunYonetimSistemi\\Form3.cs",
+              "RelativeToolTip": "UrunYonetimSistemi\\Form3.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAhwCAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:49:35.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

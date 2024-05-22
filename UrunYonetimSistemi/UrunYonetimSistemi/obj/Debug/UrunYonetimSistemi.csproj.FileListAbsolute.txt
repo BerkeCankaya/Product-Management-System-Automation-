@@ -1,0 +1,12 @@
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\bin\Debug\UrunYonetimSistemi.exe.config
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\bin\Debug\UrunYonetimSistemi.exe
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\bin\Debug\UrunYonetimSistemi.pdb
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.Form1.resources
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.Form2.resources
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.Properties.Resources.resources
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.exe
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.pdb
+C:\Users\berke\Desktop\Proje\UrunYonetimSistemi\UrunYonetimSistemi\obj\Debug\UrunYonetimSistemi.Form3.resources
